@@ -1,0 +1,25 @@
+﻿{
+	"name": "Markinim",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "280",
+	"ife": false,
+	"used-plugins": [
+		"Button",
+		"Dictionary",
+		"Function",
+		"List",
+		"Multiplayer",
+		"Text",
+		"TextBox"
+	],
+	"used-behaviors": [
+	]
+}
